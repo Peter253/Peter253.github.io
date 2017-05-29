@@ -1,0 +1,17 @@
+img { 
+	max-height: 600px; 
+	max-width: 600px;
+	display: block;
+    margin: 0 auto
+}
+h2 {
+	color: red;
+	text-shadow: 3px 3px 1px black;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: grey;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
