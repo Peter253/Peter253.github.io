@@ -9,12 +9,12 @@ myImage.onclick = function() {
       myImage.setAttribute ('src','images/rpi-25.jpg');
     }
 }
-if(!localStorage.getItem('name')) {
-  setUserName();
-} else {
-  var storedName = localStorage.getItem('name');
-  myHeading.textContent = 'Hello from RPI, ' + storedName;
-}
+//   if(!localStorage.getItem('name')) {
+//   setUserName();
+// } else {
+//   var storedName = localStorage.getItem('name');
+//   myHeading.textContent = 'Hello from RPI, ' + storedName;
+// }
 myButton.onclick = function() {
   setUserName();
 }
