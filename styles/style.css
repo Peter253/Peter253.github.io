@@ -1,12 +1,13 @@
 img { 
 	max-height: 600px; 
 	max-width: 600px;
-	display: block;
-    margin: 0 auto
+/*	display: block;
+    margin: 0 auto;*/
+    /* fff */
 }
 h2 {
-	color: red;
-	text-shadow: 3px 3px 1px black;
+	color: #c0f;
+	text-shadow: 3px 3px 1px #102c65;
 }
 body {
   width: 800px;
